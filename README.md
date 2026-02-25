@@ -30,24 +30,24 @@ Developed as part of an internship project, the system focuses on accurate and f
 
 🧠 How It Works
 
-Video input is captured (live camera or file).
+⭐Video input is captured (live camera or file).
 
-Frames are processed using OpenCV.
+⭐Frames are processed using OpenCV.
 
-YOLOv8 model analyzes each frame.
+⭐YOLOv8 model analyzes each frame.
 
-Faults in cable windings are detected.
+⭐Faults in cable windings are detected.
 
-Bounding boxes and labels are drawn on the output video.
+⭐Bounding boxes and labels are drawn on the output video.
 
-Annotated video stream is displayed/saved.
+⭐Annotated video stream is displayed/saved.
 
 🛠️ Tech Stack
 
-Python
+⁜Python
 
-OpenCV
+⁜OpenCV
 
-YOLOv8 (Ultralytics)
+⁜YOLOv8 (Ultralytics)
 
-Deep Learning / Computer Vision
+⁜Deep Learning / Computer Vision
